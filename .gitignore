@@ -1,0 +1,12 @@
+# Pastas de cache
+__pycache__/
+*.pyc
+
+# Ambiente Virtual
+venv/
+env/
+.env
+
+# Arquivos de sistema (importante se você usar Mac ou Windows)
+.DS_Store
+Thumbs.db
