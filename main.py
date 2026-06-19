@@ -41,7 +41,7 @@ root_kit_custo = 25000 #gera 600
 zero_day_exploit_custo = 125000 #gera 3k
     
 #placar valores
-contador = 999990
+contador = 0
 pontos = f'Dados : {contador:.2f}'
 tempo = 0
 dados_por_segundo = 0
